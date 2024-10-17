@@ -1,8 +1,9 @@
 import numpy as np
 
-list1=[2,3,4,5,6]
+list1=[3,4,5,6]
+# This line is changed
 list2=[10,20,30,40,50]
-
+print("Hello")
 vec1=np.array(list1)
 vec2=np.array(list2)
 
