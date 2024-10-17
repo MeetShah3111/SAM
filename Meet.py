@@ -6,6 +6,6 @@ list2=[10,20,30,40,50]
 print("Hello")
 vec1=np.array(list1)
 vec2=np.array(list2)
-print("ASSIGNMENT CHANGES DONE IN MAIN BRANCH ")
+print("ASSIGNMENT")
 vec3=vec1.dot(vec2)
 print(vec3)
