@@ -9,3 +9,4 @@ vec2=np.array(list2)
 
 vec3=vec1.dot(vec2)
 print(vec3)
+print("Hi")
